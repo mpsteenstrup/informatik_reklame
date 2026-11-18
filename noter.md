@@ -57,3 +57,7 @@ lav et billede hvor kodeordet SYSTEM er skrevet som
 110000101111011S00
 osv
 det skal være lodret som i the matrix
+
+
+
+https://youtu.be/bcOYiYDVXX4

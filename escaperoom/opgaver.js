@@ -23,10 +23,10 @@ const levels = [
     },
     
         {
-        title: "Level 4: Atomfysik",
-        description: "",
-        answer: "",
-        image: "grundstoffer5.png"
+        title: "Level 4: Hvilket fag",
+        description: "hvordan kommer jeg mon videre.",
+        answer: "informatik",
+        image: "lab_qr.jpg"
     }
 
 ];
