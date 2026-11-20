@@ -12,7 +12,7 @@ const levels = [
     },
     {
         title: "Level 2: ready to see how deep the rabbit hole goes?",
-        description: "",
+        description: "Do you take the red or the blue pill?",
         answer: "red",
         image: "valg.jpg",
         music: "musik1.mp3",
@@ -22,7 +22,7 @@ const levels = [
         ]
     },
     {
-        title: "Level 3: lets break the",
+        title: "Level 3: let's break the",
         description: "",
         answer: "SYSTEM",
         image: "matrix.gif" ,
